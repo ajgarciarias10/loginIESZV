@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">login</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="labelEmail">Email</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="labelContraseña">Password</string>
+    <string name="labelUserName">UserName</string>
+    <string name="tv_Login">LOGIN</string>
+    <string name="IconoUser">IconoUser</string>
+    <string name="content_description_end_icon">endIcon</string>
+    <string name="bt_SignUp">Sign Up</string>
+    <string name="bt_SignIn">Sign In</string>
+    <string name="tv_SignUp">Sing Up</string>
+    <string name="tv_cancel">Cancel</string>
+    <string name="ht_hintconfirmed">Confirm Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_username">Username</string>
+    <string name="tv_estalog">Welcome to IESZV  </string>
+    <string name="bt_back">Back</string>
+</resources>

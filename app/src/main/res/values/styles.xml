@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <style name="textFieldsitos" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            <item name="android:textSize">@dimen/tamañoTextoDeTodo</item>
+            <item name="fontFamily">@font/bungee_shade</item>
+            <item name="android:textColor">@color/primaryColor</item>
+        </style>
+        <style name="textFieldsitos.normalesText">
+            <item name="fontFamily">@font/cantata_one</item>
+        </style>
+</resources>
